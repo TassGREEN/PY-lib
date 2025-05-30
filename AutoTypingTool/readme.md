@@ -1,3 +1,7 @@
+# 省流
+- 下AutoTypingTool.py或AutoTypingTool.exe
+
+--- 
 # AutoTypingTool - 自动打字助手
 
 一个轻量级的 Windows 桌面工具，支持模拟键盘输入文本内容，适用于自动填写表单、自动化测试、快速粘贴等场景。
